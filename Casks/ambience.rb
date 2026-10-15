@@ -14,7 +14,7 @@ cask "ambience" do
 
   # Updates itself with Sparkle; brew upgrade leaves it alone unless --greedy.
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Ambience.app"
 
