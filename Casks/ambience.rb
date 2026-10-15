@@ -1,6 +1,6 @@
 cask "ambience" do
-  version "0.1.4"
-  sha256 "42782f38be206101853897a5ec389693b39d6150eddaa981ec151c52fcc37310"
+  version "0.1.5"
+  sha256 "39190b85f30b33f60f0de802c9447f5efd14987e909ce72bf0d6960886f58454"
 
   url "https://github.com/fsvehla/bgm-audio/releases/download/v#{version}/Ambience-#{version}-macos.zip"
   name "Ambience"
